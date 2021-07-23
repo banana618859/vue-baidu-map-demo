@@ -1,5 +1,8 @@
 # vue-baidu-map-demo
 
+## look
+![首页](https://github.com/banana618859/vue-baidu-map-demo/blob/master/src/assets/demo.jpg)
+
 ## Project setup
 ```
 npm install
